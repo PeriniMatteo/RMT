@@ -45,3 +45,5 @@ ENV/
 # Manually Added
 .requirements.txt
 *.svg
+*.csv
+
